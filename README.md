@@ -23,18 +23,12 @@ https://github.com/user-attachments/assets/99dd4dc5-2ed4-421d-bf4d-697acd553b59
 
 One run in the desktop app, condensed to a minute: a question, a storyboard to sign off, narration, voice, five pages and the finished film (72 s, made in 12 min 52 s for $1.59).
 
-Two films Frametell made end to end in English: storyboard, narration, an ElevenLabs voice, every page and the render. Click a picture to watch (with sound).
+Two films Frametell made end to end in English: storyboard, narration, an ElevenLabs voice, every page and the render.
 
-<table>
-  <tr>
-    <td width="50%"><a href="docs/media/sky-blue.mp4"><img src="docs/media/sky-blue.jpg" alt="Frames from Why is the sky blue, a chalkboard-style film about Rayleigh scattering"></a></td>
-    <td width="50%"><a href="docs/media/compound-interest.mp4"><img src="docs/media/compound-interest.jpg" alt="Frames from Why starting early matters, a warm illustrated film about compound interest"></a></td>
-  </tr>
-  <tr>
-    <td><b>Why is the sky blue?</b> · 87 s, <code>chalkboard</code>. Made from one sentence (“Why is the sky blue, and why are sunsets red?”) with Gemini.</td>
-    <td><b>Why starting early matters</b> · 72 s, <code>warm-story</code>. Compound interest, from one sentence, with Gemini.</td>
-  </tr>
-</table>
+- **Why is the sky blue?** · 87 s, `chalkboard`. Made from one sentence (“Why is the sky blue, and why are sunsets red?”) with Gemini.
+- **Why starting early matters** · 72 s, `warm-story`. Compound interest, from one sentence, with Gemini.
+
+> Demo clips were dropped from this branch to keep the checkout small; see `main` for the sample films.
 
 Frametell makes Chinese films just as well; see the <a href="README.zh-CN.md">Chinese README</a> for two of them.
 

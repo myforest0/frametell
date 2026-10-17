@@ -23,18 +23,12 @@ https://github.com/user-attachments/assets/99dd4dc5-2ed4-421d-bf4d-697acd553b59
 
 在桌面版里完整做一条片子，压缩成一分钟：提一个问题、拍板分镜、写口播、配音、画出五页，直到成片（72 秒，用时 12 分 52 秒，花费 1.59 美元）。
 
-下面两条片子都是帧言从头做到尾的：分镜、口播、配音、每一页画面和渲染。点图片观看（有声音）。
+下面两条片子都是帧言从头做到尾的：分镜、口播、配音、每一页画面和渲染。
 
-<table>
-  <tr>
-    <td width="50%"><a href="docs/media/uncertainty.mp4"><img src="docs/media/uncertainty.jpg" alt="《测不准原理》的几帧画面，黑板风格"></a></td>
-    <td width="50%"><a href="docs/media/pomodoro.mp4"><img src="docs/media/pomodoro.jpg" alt="《番茄工作法》的几帧画面，暖调插画风格"></a></td>
-  </tr>
-  <tr>
-    <td><b>测不准原理</b> · 67 秒，<code>chalkboard</code> 黑板风格。只给了一句话「讲讲量子力学测不准原理」，模型是 DeepSeek。</td>
-    <td><b>番茄工作法</b> · 55 秒，<code>warm-story</code> 暖调插画风格。素材是一页笔记，模型是 Gemini 3.7 Flash。</td>
-  </tr>
-</table>
+- **测不准原理** · 67 秒，`chalkboard` 黑板风格。只给了一句话「讲讲量子力学测不准原理」，模型是 DeepSeek。
+- **番茄工作法** · 55 秒，`warm-story` 暖调插画风格。素材是一页笔记，模型是 Gemini 3.7 Flash。
+
+> 为了减小仓库体积，本分支移除了示例影片文件；想看片子的请切到 `main` 分支。
 
 ## 为什么用帧言
 
